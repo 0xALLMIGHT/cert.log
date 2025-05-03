@@ -4,6 +4,7 @@
 
 &nbsp;
 ## Active Directory Component and Structure
+![Active Directory](https://github.com/0xALLMIGHT/cert.log/blob/main/CRTP/assets/active_directory.png)
 
 &nbsp;
 ## Component and Structure
