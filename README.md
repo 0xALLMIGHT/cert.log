@@ -4,7 +4,7 @@ Welcome to my personal repository where I document my journey through various te
 
 &nbsp;
 ## Current Coverage
-- [ ] CRTP – Certified Red Team Professional
+- [x] CRTP – Certified Red Team Professional (Notes not fully uploaded yet 🐸)
 - [ ] ECIH – EC-Council Incident Handler
 - [ ] Splunk Core Certified Power User
 - [ ] Splunk Enterprise Certified Administrator
