@@ -11,7 +11,8 @@ Welcome to my personal repository where I document my journey through various te
 - [ ] Splunk Certified Cybersecurity Defense Analyst
 - [ ] Splunk Certified Cybersecurity Defense Engineer
 - [ ] Splunk Enterprise Security Certified Administrator
-- [ ] Splunk Enterprise Certified Architect 
+- [ ] Splunk Enterprise Certified Architect
+- [ ] More incoming...
 
 &nbsp;
 ## Contact
